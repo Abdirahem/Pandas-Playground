@@ -60,3 +60,5 @@ pd.DataFrame({
     "unique_values": [df["User Id"].nunique(), df["Email"].nunique(), df["Phone"].nunique()],
     "total_rows": [len(df)]*3
 })
+
+df.info()
