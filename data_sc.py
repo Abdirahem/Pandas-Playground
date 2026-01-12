@@ -1,4 +1,6 @@
 import pandas as pd
+import numpy as np
+
 
 # Load the CSV file into a DataFrame
 file_path = 'people100.csv'
