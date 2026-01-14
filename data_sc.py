@@ -12,4 +12,5 @@ data_frame = pd.read_csv(file_path)
 result = data_frame.head()
 # Display the result
 print(result)
+# Display the result
 print(df.head())
